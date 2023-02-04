@@ -1,4 +1,4 @@
-# Apple-Interview-Questiuons
+# Apple-Interview-Questions
 1)wordBreak
 ![wordBreak-1](https://user-images.githubusercontent.com/124441562/216768385-177257aa-c4e6-4d05-b77d-97e4d90834c5.png)
 2)ValidParanthesis
