@@ -34,10 +34,46 @@
 ---
 ---
 9)Lru Cache
-![LRU-Cache](https://user-images.githubusercontent.com/124441562/216768409-d942e9a3-3560-4691-8cd8-f45e61a026c8.png)
+![LRU-Cache](https://user-images.githubusercontent.com/124441562/216768409-d942e9a3-3560-4691-8cd8-f45e61a026c8.png)![wordBreak2](https://user-images.githubusercontent.com/124441562/216818081-7d7c8449-8f4d-49ab-8798-3a0096959c25.png)
 ---
 ---
 10)Group Anagrams
 ![groupAnagram](https://user-images.githubusercontent.com/124441562/216768410-e71f7345-7f8f-47b1-ac40-d45d9c130238.png)
+---
+---
+11)Trapping Rain Water
+![trappingRainWater](https://user-images.githubusercontent.com/124441562/216818092-b46449f0-04f8-4fbe-b464-e5594184e6f8.png)
+---
+---
+12)productOfArrayExceptSelf
+![productOfArrayExceptSelf](https://user-images.githubusercontent.com/124441562/216818094-b1ec9cd8-2f60-4d45-b7f2-1be0af6cf005.png)
+---
+---
+13)permutations
+![permutations](https://user-images.githubusercontent.com/124441562/216818095-ab80d4d6-d4b3-4ba1-b0dc-1e974f549ce5.png)
+---
+---
+14)mergeKsortedList
+![mergeKsortedList](https://user-images.githubusercontent.com/124441562/216818096-db4390fa-6547-4c61-8d4a-b0f24e351e38.png)
+---
+---
+15)maximumSubarraySum
+![maximumSubarraySum](https://user-images.githubusercontent.com/124441562/216818098-aabdc496-087e-4b64-93b3-0837b29f6ea1.png)
+---
+---
+16)longestSubstringWithOutRepeatingCharacter
+![longestSubstringWithOutRepeatingCharacter](https://user-images.githubusercontent.com/124441562/216818099-e6bf3067-74f3-47f9-8350-0f71cfcca6ba.png)
+---
+---
+17)longestPalindrome
+![longestPalindrome](https://user-images.githubusercontent.com/124441562/216818101-e3f81737-30b8-46e0-a05a-7f37d65bcaf6.png)
+---
+---
+18)longestCommonPrefix
+![longestCommonPrefix](https://user-images.githubusercontent.com/124441562/216818103-68b716d5-5d93-42fa-b087-0f80c93852b9.png)
+---
+---
+19)threeSum
+![threeSum](https://user-images.githubusercontent.com/124441562/216818104-e14dc533-2a3c-4a0e-9c47-8579dba9db14.png)
 ---
 ---
