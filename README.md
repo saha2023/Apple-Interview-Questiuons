@@ -34,7 +34,7 @@
 ---
 ---
 9)Lru Cache
-![LRU-Cache](https://user-images.githubusercontent.com/124441562/216768409-d942e9a3-3560-4691-8cd8-f45e61a026c8.png)![wordBreak2](https://user-images.githubusercontent.com/124441562/216818081-7d7c8449-8f4d-49ab-8798-3a0096959c25.png)
+![LRU-Cache](https://user-images.githubusercontent.com/124441562/216768409-d942e9a3-3560-4691-8cd8-f45e61a026c8.png)
 ---
 ---
 10)Group Anagrams
@@ -75,5 +75,9 @@
 ---
 19)threeSum
 ![threeSum](https://user-images.githubusercontent.com/124441562/216818104-e14dc533-2a3c-4a0e-9c47-8579dba9db14.png)
+---
+---
+20)Word Break-2
+![wordBreak2](https://user-images.githubusercontent.com/124441562/216818081-7d7c8449-8f4d-49ab-8798-3a0096959c25.png)
 ---
 ---
