@@ -10,6 +10,7 @@ private:
         }
         return false;
     }
+    
 public:
     bool wordBreak(string s, vector<string>& wordDict) {
         unordered_set<string> st;
